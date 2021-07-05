@@ -77,6 +77,7 @@ module.exports = {
       backgroundColor: ['active'],
       borderColor: ['active'],
       textColor: ['active'],
+      margin: ['first', 'last'],
     },
   },
   plugins: [],
